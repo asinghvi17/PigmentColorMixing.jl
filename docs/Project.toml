@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+PigmentColorMixing = "cbc7f502-98d2-48bf-90bf-0bf6c18576e9"
