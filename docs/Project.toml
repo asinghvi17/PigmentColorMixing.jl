@@ -1,6 +1,9 @@
 [deps]
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+DocumenterCitations = "daee34ce-89f3-4625-b898-19384cb65244"
 FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 ImageIO = "82e4d734-157c-48bb-816b-45c225c6df19"
+Optimization = "7f7a1694-90dd-40f0-9382-eb1efda571ba"
+OptimizationOptimJL = "36348300-93cb-4f02-beb5-3c3902f8871e"
 PigmentColorMixing = "cbc7f502-98d2-48bf-90bf-0bf6c18576e9"
